@@ -1,11 +1,12 @@
 import java.util.Scanner;
 
-public class I {
+public class arifJ {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        char[] str =sc.nextLine().toCharArray();
-        int sum = str[0]-48 + str[1]-48 + str[2]-48;
+        int sum =sc.nextInt();
+        sum /=2;
+        sum*=2;
+        sum+=2;
         System.out.println(sum);
-
     }
 }

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class B_C_D {
+public class arifB_C_D {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 int x = sc.nextInt();

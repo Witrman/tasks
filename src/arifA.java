@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class A {
+public class arifA {
     public static void main(String[] args) {
     /*    Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
