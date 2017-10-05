@@ -4,6 +4,7 @@ public class File {
         for (int i= 1; i<4;i++)
         {
             System.out.println(i+i*i+i*i*i*i*i+i/2);
+            System.out.println(i+i*i+i*i*i*i*i+i/2);
 
         }
     }
